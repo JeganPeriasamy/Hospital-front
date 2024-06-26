@@ -17,9 +17,9 @@
 - With the Admin Dashboard we manage all datas - Appointment , Messages , Doctors ,Admins,
 - Admin has secured with the login facility to view all the day today activites - He can add Doctors and view messages , Update the status of the Appointment (Reject,Accept,Wait)
 - Doctors and Patients data are collected in the Database 
-## Demo URL: [https://hospitalmanagementappl.netlify.app](https://hospitalmanagementappl.netlify.app)
+## Demo URL: [https://zeehospitals.netlify.app](https://zeehospitals.netlify.app)
+![Hospital manage](https://github.com/JeganPeriasamy/Hospital-front/assets/166896131/16935307-c88e-45aa-a016-99cdf9d3cb8e)
 
-![Hospital manage](https://github.com/JeganPeriasamy/Hospital-front/assets/166896131/ec282d80-2289-439a-ad2b-01ad370be733)
 
 
 ## Features
